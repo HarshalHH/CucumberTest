@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="49.459">
+<testcase classname="Login and Bulk Upload functionality for Credit Manager" name="Login as Credit Manager user" time="49.183">
+<system-out><![CDATA[Given Credit Manager is on home page........................................passed
+When Credit Manager navigates to Login Page.................................passed
+Then success message is displayed...........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
